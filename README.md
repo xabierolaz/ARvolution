@@ -1,6 +1,6 @@
 # ARvolution
 Evolution and Adaptation of Mini-Robots through Augmented Reality in Physical Environments
-
+![Description of the GIF](transition.gif)
 ## Summary
 
 This project aims to develop a "species" of miniaturized robots (1-2 cm) capable of learning, adapting, and transmitting knowledge in a real physical environment. Inspired by principles from anthropology and simulation games like **_The Sims_** and **_Spore_**, the robots will:
