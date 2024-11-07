@@ -96,8 +96,6 @@ This project outlines a practical and innovative approach to developing an evolv
 
 ## Bibliography
 
-## Bibliography
-
 - Chen, W., Liu, S., Li, X., & Liu, H. (2022). **Augmented reality in human-robot interaction: A recent overview**. *IEEE Transactions on Cybernetics*, 52(5), 4895-4906. https://doi.org/10.1109/TCYB.2021.3056789
 
 - Duarte, M., Oliveira, S. M., & Christensen, A. L. (2021). **Advances in collective robot behavior: An evolutionary perspective**. *Robotics and Autonomous Systems*, 145, 103803. https://doi.org/10.1016/j.robot.2021.103803
