@@ -125,3 +125,113 @@ Collaboration with biologists/social scientists.
 ## 7. Conclusion
 
 This project offers an innovative, *feasible, and touchless-centered* approach to investigating emergent collective intelligence and developing autonomous robotic systems. The combination of high-fidelity simulation, advanced learning algorithms, a *spatial and haptic* AR interface, inspiration from artificial life and biology, and a pragmatic approach to physical robotics, positions it for high-impact results. *Touchless interaction*, via the AR interface, is *core* to the proposal. The phased structure, with concrete deliverables and publications, maximizes success.
+
+
+# Demo Scenarios
+
+This section describes demonstration scenarios for each phase of the project, showcasing the capabilities of the evolving robotic ecosystem and the touchless AR interaction.
+
+## Demo Phase 1: Exploration and Gathering with AR Interaction (Simulation)
+
+*   **Title:** "Virtual Robots Learn and Adapt with Touchless Human Guidance"
+
+*   **Scenario:** A simulated virtual environment resembling a room or warehouse.  It contains:
+    *   **Resources:** Virtual energy cubes that robots need to collect.
+    *   **Obstacles:** Virtual walls and boxes that robots must avoid.
+
+*   **Robots (Simulated):**
+    *   5-10 virtual robots, visualized as simple 3D models.
+    *   Each robot has:
+        *   **Internal Needs:** An energy level that decreases over time and is replenished by collecting resources.
+        *   **Personality:** Traits (e.g., explorer, conservative) influencing behavior.
+        *   **Abilities:** Basic navigation, obstacle avoidance, resource detection, reinforcement learning, and learning by observation.
+    * Robots communication graph
+
+*   **AR Interaction (Touchless):**
+    *   User wears an AR headset (e.g., HoloLens 2).
+    *   **Visualization:**
+        *   The user sees the virtual environment overlaid on the real world.
+        *   Robots have status indicators:
+            *   Energy bars.
+            *   Personality icons/labels.
+        *   Optional: Heatmaps of robot activity.
+    *   **Environment Manipulation (Touchless):**
+        *   User adds, removes, or moves obstacles and resources using gestures, voice, or eye tracking.
+    *   **Learning by Observation:**
+        *   User *demonstrates* a task (e.g., resource collection) using AR controls.
+        *   Robots watch and learn to mimic the behavior.
+    *   **Direct Control (Optional/Limited):**
+        *   For debugging, user *might* temporarily control a robot, *but the focus is on autonomous learning*.
+
+*   **Expected Outcome:**
+    *   Robots learn to navigate, avoid obstacles, find resources, and maintain energy.
+    *   Behavior is influenced by needs and personalities.
+    *   Robots learn complex tasks through observation.
+    *   User influences behavior indirectly (environment changes) and directly (demonstrations).
+    * Learning process is visualized.
+
+## Demo Phase 2: Basic Cooperation in the Real World (Sim-to-Real)
+
+*   **Title:** "Emerging Robotic Cooperation through Touchless Haptic-Virtual Interaction"
+
+*   **Scenario:** A physical-virtual environment: a real space with virtual extensions via AR.
+    *   **Physical Resources:** Real objects robots can interact with (e.g., blocks).
+    *   **Virtual Cooperative Task:** A goal requiring cooperation (e.g., pushing a heavy virtual object).
+
+*   **Robots (Physical):**
+    *   TurtleBot 3 robots (or similar).
+    *   Standard sensors (camera, LiDAR, IMU).
+    *   Software adapted from Phase 1 using Sim-to-Real techniques.
+    *   **Social Relationships:** Robots "remember" interactions, influencing cooperation.
+
+*   **AR Interaction (Touchless and Haptic):**
+    *   User wears an AR headset (HoloLens 2).
+    *   **Visualization:**
+        *   Real environment with virtual extensions (cooperative task, robot status).
+        *   *Relationships* between robots visualized.
+    *   **Environment Manipulation (Touchless):**
+        *   User modifies the virtual environment (e.g., task goal position, obstacles).
+        *   User *indirectly influences* robot rewards (e.g., increasing reward for cooperation).
+    *   **Haptic Feedback (Simulated):**
+        *   Controller vibrates to simulate robot contact.
+    *   **Knowledge Transfer:**
+        *   User observes knowledge transfer between robots.
+
+*   **Expected Outcome:**
+    *   Robots learn to cooperate to complete the task, despite real-world imperfections.
+    *   Robust Sim-to-Real learning is demonstrated.
+    *   Social relationships influence cooperation.
+    *   User influences behavior via the virtual environment and rewards.
+
+## Demo Phase 3: Complex Co-evolving Ecosystem (Advanced Sim-to-Real)
+
+*   **Title:** "Co-Evolution of Robots and Environment in a Hybrid Ecosystem with Touchless Interaction"
+
+*   **Scenario:** A more complex and dynamic physical-virtual environment.
+    *   **Dynamic Resources:** Resource amounts and distribution change over time.
+    *   **Virtual "Plants":** Grow and reproduce based on robot activity.
+    *   **Dynamic Obstacles:** Obstacles appear, disappear, or move.
+
+*   **Robots (Physical):**
+    *   TurtleBot 3 robots.
+    *   Advanced software with long-term learning.
+    *   **Emergent Symbolic Communication:** Robots develop a simple communication system.
+
+*   **AR Interaction (Touchless and Analytical):**
+    *   User wears an AR headset.
+    *   **Advanced Visualization:**
+        *   User sees abstract data visualizations:
+            *   *Family trees* of robots (knowledge transfer history).
+            *   *Heatmaps* of activity.
+            *   *Communication networks*.
+            *   *Long-term trends*.
+    *   **Large-Scale Environment Manipulation (Touchless):**
+        *   User modifies global environment parameters (e.g., simulates "climate change").
+* **Observation and analysis:** Focused on observing the emergence of complex behavior.
+
+*   **Expected Outcome:**
+    *   Robots exhibit complex social behaviors (division of labor, cooperative construction, communication).
+    *   Robots adapt to environment changes, and the environment co-evolves.
+    *   Long-term adaptation is demonstrated.
+    *   User gains insights through visualizations.
+    *   User *indirectly* influences ecosystem evolution.
