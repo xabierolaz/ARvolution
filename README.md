@@ -1,5 +1,8 @@
 # Co-Evolving Robotic Ecosystems with Haptic-Virtual Interaction: Touchless Learning, Adaptation, and Sociality
 
+![full](https://github.com/user-attachments/assets/dfef225a-d47b-49da-b11a-f357414b4f54)
+
+
 ## Executive Summary
 
 This project develops an ecosystem of autonomous robots that learn, adapt, interact socially, and *co-evolve* with their hybrid physical-virtual environment, *prioritizing touchless human interaction through Augmented Reality (AR)*. Inspired by artificial life (*The Sims*, *Spore*) and biology, the project combines:
