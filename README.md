@@ -115,7 +115,7 @@ Collaboration with biologists/social scientists.
     *   Educational tools.
     *   *Promotion of safe and touchless interactions*.
 
-## 6. Project Team
+## 6. Project Team (depends on the scope of the project)
 
 *   **Principal Investigator:** PhD in Robotics/AI, expertise in DRL, Sim-to-Real, and human-robot interaction.
 *   **Co-Investigator:** PhD in Computer Science, expertise in AR, haptic interaction, and usability.
